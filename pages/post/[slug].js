@@ -90,4 +90,4 @@ export async function getStaticProps(context) {
 }
 export default Post;
 
-// it does not require
+
